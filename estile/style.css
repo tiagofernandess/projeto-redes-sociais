@@ -53,6 +53,7 @@ section#redes-socias img {
 	border-radius: 50%;
 	box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.404);
 	box-sizing: border-box;
+	
 }
 
 section#redes-socias img:hover {
@@ -60,4 +61,5 @@ section#redes-socias img:hover {
 	transform: translate(-3px, -3px);
 	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.623);
 	transition: 0.3s; border: 1s;
+	
 }
